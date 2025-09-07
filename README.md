@@ -1,0 +1,1 @@
+The following R command was developed to perform linear mixed modeling, change analysis, and biological aging shift analysis, using cardiovascular health-related risk factors as predictors and DunedinPACE scores as the outcome. The code was designed to facilitate reproducible analyses in aging research.
